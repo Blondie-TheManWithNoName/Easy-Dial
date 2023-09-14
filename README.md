@@ -40,7 +40,7 @@ This was the best option, because we could always identify which was the most fr
 
 ### TST (modified)
 
-This last implementation turned out to be the one that best fit the requested criteria. Basically it is like the general tree with only the characters but I added the whole name, so when you are looking at the prefixes in functions like _ _next_ _ and _ _previous_ _, we only look at the characters as in the general tree, you only look at the characters as if it were the general tree.
+This last implementation turned out to be the one that best fit the requested criteria. Basically it is like the general tree with only the characters but I added the whole name, so when you are looking at the prefixes in functions like _next_ and _previous_, we only look at the characters as in the general tree, you only look at the characters as if it were the general tree.
 But when doing the function _easy_dial::comencen(...)_ you can take advantage of the fact that we have the integer names and this way we have an easy and efficient function.
 
 
