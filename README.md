@@ -1,3 +1,4 @@
+# EASY DIAL
 
 Implementation of modified TST **(Ternary Search Tree)** in C++ in order to get suggestion of most called people names by typing one letter at a time.
 
@@ -12,7 +13,7 @@ Defined classes:
 
 ## UML of the Project
 
-![Untitled Diagram drawio (1)](https://github.com/Blondie-TheManWithNoName/Easy-Dial/assets/58909117/e10e505c-b9de-4824-a0e9-76f9b80718be)# EASY DIAL
+![Untitled Diagram drawio (1)](https://github.com/Blondie-TheManWithNoName/Easy-Dial/assets/58909117/e10e505c-b9de-4824-a0e9-76f9b80718be)
 
 
 
