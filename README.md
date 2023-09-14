@@ -15,6 +15,9 @@ Defined classes:
 
 ![Untitled Diagram drawio (1)](https://github.com/Blondie-TheManWithNoName/Easy-Dial/assets/58909117/e10e505c-b9de-4824-a0e9-76f9b80718be)
 
+## Project Statement
+[Project Statement.pdf](https://github.com/Blondie-TheManWithNoName/Easy-Dial/files/12608728/Project.Statement.pdf)
+
 
 
 ## Process of thought to get to the Data Structure that suits the most
