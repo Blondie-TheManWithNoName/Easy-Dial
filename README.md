@@ -30,7 +30,7 @@ I started with this one and ran into a problem, I could not tell which was the n
 
 With this one the previous issue with the TST was solved. I could identify the most frequent number of direct children of a node, but the problem was that I could not know if any child of the children of the current node had higher frequency or not.
 
-### Pointer vector per node with all ascii characters
+### Vector of node pointers with all ascii characters
 
 This option solved all of the above problems. The problem was that the space cost was very large since we had to have a table with all ascii characters a table with all ascii characters. And the function _easy_dial::comencen(...)_ was not efficient, so even though it worked perfectly I decided to change the implementation.
 
