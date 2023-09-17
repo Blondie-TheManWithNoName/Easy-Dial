@@ -32,7 +32,7 @@ With this one the previous issue with the TST was solved. I could identify the m
 
 ### Vector of node pointers with all ascii characters
 
-This option solved all of the above problems. The problem was that the space cost was very large since we had to have a table with all ascii characters a table with all ascii characters. And the function _easy_dial::comencen(...)_ was not efficient, so even though it worked perfectly I decided to change the implementation.
+This option solved all of the above problems. The problem was that the space cost was very large since it had to have a table with all ascii characters. And the function _easy_dial::comencen(...)_ was not efficient, so even though it worked perfectly I decided to change the implementation.
 
 ### General tree (with only prefixes)
 
