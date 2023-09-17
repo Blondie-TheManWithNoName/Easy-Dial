@@ -36,7 +36,7 @@ This option solved all of the above problems. The problem was that the space cos
 
 ### General tree (with only prefixes)
 
-This was the best option, because we could always identify which was the most frequent name. The problem was in the function _easy_dial::comencen(...)_, because I only stored the necessary characters and not the full names, the function was very convoluted and not very efficient.
+This was the best option, because I could always identify which was the most frequent name. The problem was in the function _easy_dial::comencen(...)_, because I only stored the necessary characters and not the full names, the function was very convoluted and not very efficient.
 
 ### TST (modified)
 
