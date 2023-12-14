@@ -20,7 +20,7 @@ Defined classes:
 
 
 
-## Process of thought to get to the Data Structure that suits the most
+## Thought process to get to the most suitable Data Structure
 
 ### Common TST
 
